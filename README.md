@@ -1,19 +1,12 @@
-# make_your_burguer
+# Sistema de Hamburgueria
 
-## Project setup
-```
-npm install
-```
+Um sistema de hamburgueria desenvolvido em Vue.Js, utiliza o Json server para simular um servidor back-end.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Sobre o projeto
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Desenvolvido durante o Curso de Vue 3 do Matheus Battisti - Hora de Codar, para praticar Vue.Js e algumas operações **CRUD**.
+Caso tenha algum Feedback sobre o código ou a estrutura que possa melhorar o projeto, você pode entrar em contato.
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Tecnologias utilizadas
+
+ - Vue
